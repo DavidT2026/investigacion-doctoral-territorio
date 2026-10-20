@@ -103,3 +103,36 @@ h1{max-width:1100px;font-size:clamp(23px,2.6vw,34px);line-height:1.25;letter-spa
  .hero-copy{max-width:100%}
  .hero-photos{width:72%;min-width:0;height:130px;align-self:center}
 }
+
+
+/* Banner simplificado: una sola fotografía de 10 × 10 cm */
+.hero.hero-photo-only{
+  min-height:0;
+  padding:18px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background:transparent;
+  border:0;
+  box-shadow:none;
+}
+.hero.hero-photo-only .hero-photos{
+  width:10cm;
+  height:10cm;
+  min-width:0;
+  max-width:100%;
+  flex:none;
+}
+.hero.hero-photo-only .hero-photo-secondary{
+  inset:0;
+  width:100%;
+  height:100%;
+  transform:none;
+  border:0;
+  border-radius:10px;
+}
+.hero.hero-photo-only .hero-photo figcaption{font-size:10px;padding:28px 12px 10px}
+@media(max-width:600px){
+  .hero.hero-photo-only{padding:10px}
+  .hero.hero-photo-only .hero-photos{width:min(10cm,100%);height:auto;aspect-ratio:1}
+}
