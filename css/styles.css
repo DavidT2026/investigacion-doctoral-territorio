@@ -155,3 +155,8 @@ h1{max-width:1100px;font-size:clamp(23px,2.6vw,34px);line-height:1.25;letter-spa
 /* Reducir adicionalmente el esquema del ciclo de investigación */
 .cycle-figure{max-width:300px;padding:8px}
 @media(max-width:600px){.cycle-figure{max-width:42%}}
+
+
+/* Fotografía reducida 2 cm: de 10 × 10 cm a 8 × 8 cm */
+.photo-feature-figure{width:8cm;height:8cm}
+@media(max-width:600px){.photo-feature-figure{width:min(8cm,100%);height:auto;aspect-ratio:1}}
