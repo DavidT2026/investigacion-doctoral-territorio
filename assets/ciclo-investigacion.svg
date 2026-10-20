@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1000" role="img" aria-labelledby="title desc">
+<title id="title">Ciclo de investigación doctoral I</title><desc id="desc">Tres componentes conectados en ciclo: problemática educativa desde una perspectiva crítica y reflexiva; enfoques epistemológicos y metodológicos de investigación; bibliografía.</desc>
+<defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10" fill="none" stroke="#222" stroke-width="2"/></marker></defs>
+<rect width="1200" height="1000" fill="#fcfaf8"/>
+<g fill="none" stroke="#222" stroke-width="6" stroke-linecap="round" marker-end="url(#arrow)"><path d="M855 255 Q1000 330 1010 555"/><path d="M720 820 Q590 900 420 825"/><path d="M165 555 Q180 350 340 260"/></g>
+<circle cx="600" cy="500" r="180" fill="#222"/>
+<text x="600" y="485" fill="#fff" font-family="Georgia,serif" font-size="38" text-anchor="middle">INVESTIGACIÓN</text><text x="600" y="535" fill="#fff" font-family="Georgia,serif" font-size="38" text-anchor="middle">DOCTORAL I</text>
+<g stroke="#222" stroke-width="4">
+<rect x="345" y="55" width="510" height="300" rx="52" fill="#eee7f7"/>
+<rect x="750" y="570" width="400" height="330" rx="52" fill="#e2f0e5"/>
+<rect x="50" y="570" width="400" height="330" rx="52" fill="#f8e9e0"/>
+</g>
+<g fill="#222"><circle cx="600" cy="115" r="37"/><circle cx="950" cy="645" r="37"/><circle cx="250" cy="645" r="37"/></g>
+<g fill="#fff" font-family="Arial,sans-serif" font-weight="bold" font-size="30" text-anchor="middle"><text x="600" y="126">01</text><text x="950" y="656">02</text><text x="250" y="656">03</text></g>
+<g fill="#222" font-family="Georgia,serif" font-weight="bold" text-anchor="middle" font-size="35">
+<text x="600" y="190"><tspan x="600" dy="0">Problemática</tspan><tspan x="600" dy="43">educativa desde una</tspan><tspan x="600" dy="43">perspectiva crítica</tspan><tspan x="600" dy="43">y reflexiva</tspan></text>
+<text x="950" y="730"><tspan x="950" dy="0">Enfoques</tspan><tspan x="950" dy="43">epistemológicos y</tspan><tspan x="950" dy="43">metodológicos</tspan><tspan x="950" dy="43">de investigación</tspan></text>
+<text x="250" y="790">Bibliografía</text>
+</g></svg>
