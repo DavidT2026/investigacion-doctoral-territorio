@@ -31,7 +31,7 @@ function renderChart(data) {
   const statuses=['pendiente','en curso','por verificar','propuesto','completado'];
   const values=statuses.map(s=>(data.tasks||[]).filter(t=>t.status===s).length);
   if(chartInstance) chartInstance.destroy();
-  chartInstance=new Chart(canvas,{type:'bar',data:{labels:statuses.map(statusLabel),datasets:[{label:'Tareas registradas',data:values,backgroundColor:['#d8e7df','#4b9b83','#8c83c5','#e0b46f','#4d8175'],borderRadius:7,maxBarThickness:48}]},options:{responsive:true,maintainAspectRatio:false,indexAxis:'y',plugins:{legend:{display:false},tooltip:{callbacks:{label:ctx=>` ${ctx.raw} tarea(s)`}}},scales:{x:{beginAtZero:true,ticks:{precision:0},grid:{color:'#edf1ee'}},y:{grid:{display:false}}}}});
+  chartInstance=new Chart(canvas,{type:'bar',data:{labels:statuses.map(statusLabel),datasets:[{label:'Tareas registradas',data:values,backgroundColor:['#f1dfb8','#dceee3','#e9e2f5','#e3e8ec','#cce7d5'],borderRadius:7,maxBarThickness:48}]},options:{responsive:true,maintainAspectRatio:false,indexAxis:'y',plugins:{legend:{display:false},tooltip:{callbacks:{label:ctx=>` ${ctx.raw} tarea(s)`}}},scales:{x:{beginAtZero:true,ticks:{precision:0},grid:{color:'#edf1ee'}},y:{grid:{display:false}}}}});
 }
 function exportData() {
   const blob=new Blob([JSON.stringify(projectData,null,2)],{type:'application/json'});
