@@ -5,6 +5,8 @@ Tablero público de seguimiento de la investigación doctoral sobre Pedagogía d
 ## Enfoque del tablero
 - Tres preguntas provisionales: ser-en-el-mundo-barrial y expresiones mítico-metafóricas; relación con memorias, condiciones materiales e imaginarios globales/digitales; posibilidades y límites de una mediación pedagógica participativa.
 - Síntesis del desarrollo conceptual documentado hasta ahora.
+- Hipótesis de trabajo completa y accesible desde la navegación lateral.
+- Banner fotográfico de Ciudad Bolívar con atribución a las fuentes de las imágenes.
 - Resultados de aprendizaje, agenda tutorial propuesta y productos pendientes de validación.
 
 ## Archivos
