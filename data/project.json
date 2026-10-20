@@ -6,39 +6,196 @@
     "research_context": "Barrios Juan Pablo II y Compartir, Ciudad Bolívar, Bogotá",
     "document_basis": "Documento de trabajo Investigación Doctoral I y adenda sobre Pedagogía del Territorio",
     "updated": "2026-10-20",
-    "note": "Estados iniciales de seguimiento. Verificar productos y avances antes de asignar porcentajes o marcar tareas como completadas."
+    "note": "Tablero de trabajo basado en el documento de tesis actualizado. Las preguntas y los estados son provisionales; distinguir desarrollo documental de evidencia empírica y validar los avances con la tutora."
   },
   "results": [
-    {"id":1,"title":"Identificar y describir una problemática educativa relevante desde una perspectiva crítica","short":"Problematización educativa","description":"Delimitar la tensión entre discursos dominantes sobre las juventudes y sus experiencias de habitar, memoria territorial, subjetividad y formación filosófica.","status":"por verificar","evidence":["Documento de problematización revisado","Mapa de actores y tensiones","Matriz de evidencia, hipótesis y preguntas abiertas","Delimitación territorial, educativa y generacional revisada en tutoría"]},
-    {"id":2,"title":"Explorar y analizar enfoques epistemológicos y metodológicos","short":"Arquitectura epistemológica","description":"Precisar la articulación entre Pedagogía del Territorio, historia local, fenomenología del habitar, geografía humanística y hermenéutica ontológica política.","status":"por verificar","evidence":["Matriz comparativa de enfoques y autores","Nota epistemológica argumentada","Glosario crítico de categorías","Bosquejo de alternativas metodológicas y riesgos éticos"]},
-    {"id":3,"title":"Revisión bibliográfica inicial, crítica y delimitada","short":"Revisión bibliográfica","description":"Construir un corpus exploratorio trazable y una síntesis crítica de debates, convergencias, desacuerdos y vacíos provisionales.","status":"por verificar","evidence":["Bibliografía anotada y depurada","Matriz de lectura comparativa","Registro de búsquedas y criterios de selección","Síntesis crítica y plan de ampliación para semestres posteriores"]}
+    {
+      "id": 1,
+      "title": "Identificar y describir una problemática educativa relevante desde una perspectiva crítica",
+      "short": "Problematización educativa",
+      "description": "Delimitar la tensión entre discursos dominantes sobre las juventudes y sus experiencias de habitar, memoria territorial, subjetividad y formación filosófica.",
+      "status": "por verificar",
+      "evidence": [
+        "Documento de problematización revisado",
+        "Mapa de actores y tensiones",
+        "Matriz de evidencia, hipótesis y preguntas abiertas",
+        "Delimitación territorial, educativa y generacional revisada en tutoría"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Explorar y analizar enfoques epistemológicos y metodológicos",
+      "short": "Arquitectura epistemológica",
+      "description": "Precisar la articulación entre Pedagogía del Territorio, historia local, fenomenología del habitar, geografía humanística y hermenéutica ontológica política.",
+      "status": "por verificar",
+      "evidence": [
+        "Matriz comparativa de enfoques y autores",
+        "Nota epistemológica argumentada",
+        "Glosario crítico de categorías",
+        "Bosquejo de alternativas metodológicas y riesgos éticos"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Revisión bibliográfica inicial, crítica y delimitada",
+      "short": "Revisión bibliográfica",
+      "description": "Construir un corpus exploratorio trazable y una síntesis crítica de debates, convergencias, desacuerdos y vacíos provisionales.",
+      "status": "por verificar",
+      "evidence": [
+        "Bibliografía anotada y depurada",
+        "Matriz de lectura comparativa",
+        "Registro de búsquedas y criterios de selección",
+        "Síntesis crítica y plan de ampliación para semestres posteriores"
+      ]
+    }
   ],
   "tutorials": [
-    {"number":1,"title":"Situacionalidad, problema y territorio","focus":"Problema educativo, objeto, unidad de análisis, territorio, población y categorías generacionales.","doctoral_deliverable":"Problematización revisada, mapa de tensiones y matriz de evidencia e hipótesis.","status":"propuesto"},
-    {"number":2,"title":"Arquitectura epistemológica y eje mítico-metafórico","focus":"Relación entre Pedagogía del Territorio, historia local, geografía humanística, fenomenología y hermenéutica; distinción entre mito, metáfora, mística y espiritualidad.","doctoral_deliverable":"Matriz de categorías con definiciones provisionales, preguntas empíricas y autores por profundizar.","status":"propuesto"},
-    {"number":3,"title":"Revisión bibliográfica inicial","focus":"Corpus, estrategia de búsqueda, fichas críticas, debates sobre participación, memoria, violencia y estudios territoriales.","doctoral_deliverable":"Bibliografía anotada, registro de búsqueda y síntesis comparativa.","status":"propuesto"},
-    {"number":4,"title":"Integración y cierre","focus":"Coherencia entre problema, epistemología y bibliografía; productos logrados, pendientes y ruta hacia Investigación Doctoral II.","doctoral_deliverable":"Dossier integrado con cambios trazados y nota conceptual sobre la posible función futura del museo digital.","status":"propuesto"}
+    {
+      "number": 1,
+      "title": "Situacionalidad, problema y territorio",
+      "focus": "Problema educativo, objeto, unidad de análisis, territorio, población y categorías generacionales.",
+      "doctoral_deliverable": "Problematización revisada, mapa de tensiones y matriz de evidencia e hipótesis.",
+      "status": "propuesto"
+    },
+    {
+      "number": 2,
+      "title": "Arquitectura epistemológica y eje mítico-metafórico",
+      "focus": "Relación entre Pedagogía del Territorio, historia local, geografía humanística, fenomenología y hermenéutica; distinción entre mito, metáfora, mística y espiritualidad.",
+      "doctoral_deliverable": "Matriz de categorías con definiciones provisionales, preguntas empíricas y autores por profundizar.",
+      "status": "propuesto"
+    },
+    {
+      "number": 3,
+      "title": "Revisión bibliográfica inicial",
+      "focus": "Corpus, estrategia de búsqueda, fichas críticas, debates sobre participación, memoria, violencia y estudios territoriales.",
+      "doctoral_deliverable": "Bibliografía anotada, registro de búsqueda y síntesis comparativa.",
+      "status": "propuesto"
+    },
+    {
+      "number": 4,
+      "title": "Integración y cierre",
+      "focus": "Coherencia entre problema, epistemología y bibliografía; productos logrados, pendientes y ruta hacia Investigación Doctoral II.",
+      "doctoral_deliverable": "Dossier integrado con cambios trazados y nota conceptual sobre la posible función futura del museo digital.",
+      "status": "propuesto"
+    }
   ],
   "tasks": [
-    {"id":"T01","title":"Revisar la delimitación del problema educativo","category":"Resultado 1","status":"por verificar","detail":"Contrastar la formulación con la evidencia disponible y separar hechos, inferencias e interrogantes."},
-    {"id":"T02","title":"Construir el mapa de actores y tensiones","category":"Resultado 1","status":"pendiente","detail":"Incluir juventudes, familias, docentes, colectivos, instituciones y espacios territoriales."},
-    {"id":"T03","title":"Preparar matriz de enfoques epistemológicos","category":"Resultado 2","status":"pendiente","detail":"Precisar supuestos, alcances, límites y relaciones entre enfoques."},
-    {"id":"T04","title":"Definir glosario crítico de categorías","category":"Resultado 2","status":"pendiente","detail":"Distinguir territorio, habitar, memoria, juventud, generación, mito, metáfora y espiritualidad."},
-    {"id":"T05","title":"Verificar referencias bibliográficas en sus originales","category":"Resultado 3","status":"en curso","detail":"Comprobar metadatos, citas textuales, paginación y pertinencia."},
-    {"id":"T06","title":"Organizar registro trazable de búsquedas","category":"Resultado 3","status":"pendiente","detail":"Registrar bases, términos, filtros, criterios de selección y exclusión."},
-    {"id":"T07","title":"Redactar nota conceptual del museo barrial digital","category":"Proyección futura","status":"propuesto","detail":"Fundamentar función epistemológica, tipos de materiales, principios éticos y posible arquitectura; no implica implementarlo este semestre."},
-    {"id":"T08","title":"Definir principios de protección y consentimiento","category":"Ética","status":"pendiente","detail":"Considerar voluntariedad, protección de menores, datos sensibles, geolocalización y retiro de materiales."}
+    {
+      "id": "T01",
+      "title": "Revisar la delimitación del problema educativo",
+      "category": "Resultado 1",
+      "status": "por verificar",
+      "detail": "Contrastar la formulación con la evidencia disponible y separar hechos, inferencias e interrogantes."
+    },
+    {
+      "id": "T02",
+      "title": "Construir el mapa de actores y tensiones",
+      "category": "Resultado 1",
+      "status": "pendiente",
+      "detail": "Incluir juventudes, familias, docentes, colectivos, instituciones y espacios territoriales."
+    },
+    {
+      "id": "T03",
+      "title": "Preparar matriz de enfoques epistemológicos",
+      "category": "Resultado 2",
+      "status": "pendiente",
+      "detail": "Precisar supuestos, alcances, límites y relaciones entre enfoques."
+    },
+    {
+      "id": "T04",
+      "title": "Definir glosario crítico de categorías",
+      "category": "Resultado 2",
+      "status": "pendiente",
+      "detail": "Distinguir territorio, habitar, memoria, juventud, generación, mito, metáfora y espiritualidad."
+    },
+    {
+      "id": "T05",
+      "title": "Verificar referencias bibliográficas en sus originales",
+      "category": "Resultado 3",
+      "status": "en curso",
+      "detail": "Comprobar metadatos, citas textuales, paginación y pertinencia."
+    },
+    {
+      "id": "T06",
+      "title": "Organizar registro trazable de búsquedas",
+      "category": "Resultado 3",
+      "status": "pendiente",
+      "detail": "Registrar bases, términos, filtros, criterios de selección y exclusión."
+    },
+    {
+      "id": "T07",
+      "title": "Redactar nota conceptual del museo barrial digital",
+      "category": "Proyección futura",
+      "status": "propuesto",
+      "detail": "Fundamentar función epistemológica, tipos de materiales, principios éticos y posible arquitectura; no implica implementarlo este semestre."
+    },
+    {
+      "id": "T08",
+      "title": "Definir principios de protección y consentimiento",
+      "category": "Ética",
+      "status": "pendiente",
+      "detail": "Considerar voluntariedad, protección de menores, datos sensibles, geolocalización y retiro de materiales."
+    }
   ],
   "framework": [
-    {"title":"Pedagogía del Territorio","role":"Condición situacional y horizonte político-pedagógico"},
-    {"title":"Historia local y memoria","role":"Reconstrucción de temporalidades, poblamiento, luchas, transformaciones y memorias plurales"},
-    {"title":"Fenomenología y geografía humanística","role":"Experiencia vivida, habitar, afectividad y significados del lugar"},
-    {"title":"Hermenéutica ontológica política","role":"Interpretación crítica de sentidos, pluralidad, acción y relaciones de poder"},
-    {"title":"Eje mítico-metafórico","role":"Dimensión analítica de imágenes, relatos, metáforas y producciones juveniles"}
+    {
+      "title": "Pedagogía del Territorio",
+      "role": "Condición situacional y horizonte político-pedagógico"
+    },
+    {
+      "title": "Historia local y memoria",
+      "role": "Reconstrucción de temporalidades, poblamiento, luchas, transformaciones y memorias plurales"
+    },
+    {
+      "title": "Fenomenología y geografía humanística",
+      "role": "Experiencia vivida, habitar, afectividad y significados del lugar"
+    },
+    {
+      "title": "Hermenéutica ontológica política",
+      "role": "Interpretación crítica de sentidos, pluralidad, acción y relaciones de poder"
+    },
+    {
+      "title": "Eje mítico-metafórico",
+      "role": "Dimensión analítica de imágenes, relatos, metáforas y producciones juveniles"
+    }
   ],
   "privacy": {
-    "repository_visibility":"private",
-    "public_deployment":"not_configured",
-    "warning":"No incluir entrevistas, imágenes, audios, datos personales, ubicaciones sensibles ni materiales identificables de menores en una publicación abierta sin autorización y evaluación ética."
-  }
+    "repository_visibility": "public",
+    "public_deployment": "configured",
+    "warning": "El repositorio y el sitio son públicos. No publicar entrevistas identificables, fotos o audios de menores, datos personales, ubicaciones sensibles ni materiales comunitarios sin autorización y evaluación ética."
+  },
+  "research_questions": [
+    {
+      "id": 1,
+      "title": "Ser-en-el-mundo-barrial y expresiones mítico-metafóricas",
+      "question": "¿Cómo expresan y elaboran las juventudes de Juan Pablo II y Compartir, mediante formas mítico-metafóricas, las tensiones históricas, económicas, filosóficas y geográficas que configuran su experiencia territorial?"
+    },
+    {
+      "id": 2,
+      "title": "Memoria, condiciones materiales e imaginarios contemporáneos",
+      "question": "¿Cómo se relacionan esas expresiones con las memorias y contradicciones intergeneracionales, las condiciones materiales del territorio, la experiencia de habitar y los imaginarios globales y digitales?"
+    },
+    {
+      "id": 3,
+      "title": "Mediación pedagógica participativa y posibilidades emancipadoras",
+      "question": "¿Qué posibilidades y límites ofrece un museo digital del territorio y la memoria para interpretar críticamente esas expresiones y explorar sus alcances pedagógicos y emancipadores, sin presuponerlos?"
+    }
+  ],
+  "developed_to_date": [
+    {
+      "title": "Problematización situada",
+      "detail": "Delimitación del contexto territorial y de la tensión entre memorias, experiencias juveniles contemporáneas, transmisión intergeneracional y participación. Se evita asumir apatía juvenil o idealizar el pasado.",
+      "status": "documentado en el texto"
+    },
+    {
+      "title": "Articulación conceptual",
+      "detail": "Pedagogía del Territorio como horizonte situacional, en diálogo con historia local y memoria, fenomenología del habitar, geografía humanística, crítica de las condiciones materiales y Hermenéutica Ontológica Política. El eje mítico-metafórico se plantea como dimensión analítica.",
+      "status": "marco de trabajo provisional"
+    },
+    {
+      "title": "Hipótesis y ruta de continuidad",
+      "detail": "Hipótesis reformulada, pregunta central propuesta y objetivos orientadores. El museo digital queda como mediación posible para fases posteriores, no como entregable actual ni como garantía de emancipación.",
+      "status": "propuesta para discusión tutorial"
+    }
+  ]
 }
